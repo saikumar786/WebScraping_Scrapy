@@ -1,0 +1,4 @@
+#WebScraping using Scrapy
+
+Scraped the data from the url:
+	'https://www.worldometers.info/world-population/population-by-country/'
