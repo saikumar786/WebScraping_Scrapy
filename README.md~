@@ -1,4 +1,5 @@
 #WebScraping using Scrapy
 
-Scraped the data from the url:
-	'https://www.worldometers.info/world-population/population-by-country/'
+Scraping the data from a website and storing that in json/csv/xlsx format as we need that.
+
+
